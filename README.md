@@ -7,7 +7,7 @@
 - <img width = "300" height = "" src=pic/첫화면.PNG><img> - <img width = "300" height = "625" src=pic/네이버.PNG><img> - <img width = "300" height = "" src=pic/전화걸기.PNG><img>
   
 # 4주차(2022-03-29)
-  -Toast Message 버튼을 MainAtivity code에서 만듦
+  -Toast Message 버튼 만들어 학번과 이름을 뜨게 함 & 버튼을 MainAtivity code에서 만듦
   
-  -<img width ="300" height="" src=pic/메세지.PNG><img>
+  -<img width ="300" height="" src=pic/메세지1.PNG><img>
   
