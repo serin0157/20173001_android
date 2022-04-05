@@ -11,3 +11,8 @@
   
   -<img width ="300" height="" src=pic/메세지1.PNG><img>
   
+# 5주차(2022-04-05)
+- 버튼 크기 모양 바꾸기 & 이미지 바꾸기 버튼을 이용해서 사진 두장 바꾸기
+  
+  -<img width ="350" height="" src=pic/액티비티.PNG><img><img width ="400" height="" src=pic/메인_엑티비티.PNG><img><img width ="280" height="" src=pic/앞.PNG><img><img width ="280" height="" src=pic/뒤.PNG><img>
+  
