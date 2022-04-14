@@ -16,3 +16,7 @@
   
   -<img width ="350" height="" src=pic/액티비티.PNG><img><img width ="400" height="" src=pic/메인_엑티비티.PNG><img><img width ="280" height="" src=pic/앞.PNG><img><img width ="280" height="" src=pic/뒤.PNG><img>
   
+# 6주차(2022-4-12)  
+  - 스크롤뷰 사용하기
+  
+  <img width ="270" height = "" src=pic/넓이.PNG><img> <img width ="270" height = "" src=pic/높이.PNG><img>
