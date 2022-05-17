@@ -20,3 +20,13 @@
   - 스크롤뷰 사용하기
   
   <img width ="270" height = "" src=pic/넓이.PNG><img> <img width ="270" height = "" src=pic/높이.PNG><img>
+  
+# 10주차(2022-5-10)
+  - 여러 화면 만들고 화면간 전환하기
+  
+  <img width ="270" height = "" src=pic/메뉴.PNG><img><img width ="270" height = "" src=pic/돌아가기.PNG><img>
+
+# 11주차(2022-5-17)
+  - 웹으로 요청하기
+  
+  <img width ="270" height = "" src=pic/11주차.PNG><img>
