@@ -33,5 +33,3 @@
   
 # 12주차(2022-05-24)
   - GITHUB와 연동하고 JSON 다루기
-  
- <img width ="270" height = "" src=pic/12주차 과제.PNG><img>
